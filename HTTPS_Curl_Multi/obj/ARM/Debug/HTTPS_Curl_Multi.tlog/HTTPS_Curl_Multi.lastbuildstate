@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=:PlatformToolSet=GCC_AzureSphere_1_0:EnableManagedIncrementalBuild=:VCToolArchitecture=:WindowsTargetPlatformVersion=
+Debug|ARM|F:\azure sphere\azure-sphere-samples\Samples\HTTPS\HTTPS_Curl_Multi\|
